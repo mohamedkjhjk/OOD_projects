@@ -1,0 +1,87 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:06:02 #1 tool] 
+java.lang.NoClassDefFoundError: javax/persistence/PersistenceException
+	at com.objectdb.o.OSH.<clinit>(OSH.java:104)
+	at com.objectdb.o.SMR.f(SMR.java:177)
+	at com.objectdb.o.TOL.run(TOL.java:117)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+Caused by: java.lang.ClassNotFoundException: javax.persistence.PersistenceException
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
+	... 6 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:06:39 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\point.odb' is opened by 16956@DESKTOP-3SREFX6
+
+[2024-12-18 19:06:39 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:06:47 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\point.odb' is closed by 16956@DESKTOP-3SREFX6
+
+[2024-12-18 19:06:47 #4 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is opened by 16956@DESKTOP-3SREFX6
+
+[2024-12-18 19:06:47 #5 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:07:04 #6 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is closed by 16956@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:14:01 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is opened by 6740@DESKTOP-3SREFX6
+
+[2024-12-18 19:14:01 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:14:16 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is closed by 6740@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:14:38 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.o(SMR.java:260)
+	at com.objectdb.o.SMR.f(SMR.java:160)
+	at com.objectdb.o.TOL.run(TOL.java:117)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:14:55 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is opened by 9064@DESKTOP-3SREFX6
+
+[2024-12-18 19:14:55 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:15:02 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is closed by 9064@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:15:28 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is opened by 1004@DESKTOP-3SREFX6
+
+[2024-12-18 19:15:28 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:15:39 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\world.odb' is closed by 1004@DESKTOP-3SREFX6
+

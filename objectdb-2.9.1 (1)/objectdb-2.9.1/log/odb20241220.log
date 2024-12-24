@@ -1,0 +1,331 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 13:52:01 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 1128@DESKTOP-3SREFX6
+
+[2024-12-20 13:52:01 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 13:52:01 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 13:52:01 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 13:52:01 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 13:52:01 #6 type] 
+Type odd.Product is not enhanced.
+
+[2024-12-20 13:52:01 #7 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 1128@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 13:52:23 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 22776@DESKTOP-3SREFX6
+
+[2024-12-20 13:52:23 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 13:52:23 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 13:52:23 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 13:52:23 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 13:52:23 #6 type] 
+Type odd.Product is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 13:53:13 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 2928@DESKTOP-3SREFX6
+
+[2024-12-20 13:53:13 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 13:53:13 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 13:53:13 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 13:53:13 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 13:53:13 #6 type] 
+Type odd.Product is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 13:54:26 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 3144@DESKTOP-3SREFX6
+
+[2024-12-20 13:54:26 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 13:55:50 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 3144@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:05:12 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 23624@DESKTOP-3SREFX6
+
+[2024-12-20 14:05:12 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:05:12 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 14:05:12 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 14:05:12 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 14:05:12 #6 type] 
+Type odd.Product is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:05:26 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 22980@DESKTOP-3SREFX6
+
+[2024-12-20 14:05:26 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:05:35 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 22980@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:05:38 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 6824@DESKTOP-3SREFX6
+
+[2024-12-20 14:05:38 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:05:38 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 14:05:38 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 14:05:38 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 14:05:38 #6 type] 
+Type odd.Product is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:05:44 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 13140@DESKTOP-3SREFX6
+
+[2024-12-20 14:05:44 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:06:01 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 13140@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:06:18 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 14324@DESKTOP-3SREFX6
+
+[2024-12-20 14:06:18 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:06:18 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 14:06:18 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 14:06:18 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 14:06:18 #6 type] 
+Type odd.Product is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:06:25 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 16256@DESKTOP-3SREFX6
+
+[2024-12-20 14:06:25 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:06:25 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 14:06:25 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 14:06:25 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 14:06:25 #6 type] 
+Type odd.Product is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:06:40 #1 server] 
+Server on port 6136 has started by 4724@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:06:46 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 1708@DESKTOP-3SREFX6
+
+[2024-12-20 14:06:46 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:06:51 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 1708@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:07:45 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 2264@DESKTOP-3SREFX6
+
+[2024-12-20 14:07:45 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+[2024-12-20 14:07:45 #3 type] 
+Type odd.Customer is not enhanced.
+
+[2024-12-20 14:07:45 #4 type] 
+Type odd.Cart is not enhanced.
+
+[2024-12-20 14:07:45 #5 type] 
+Type odd.Order is not enhanced.
+
+[2024-12-20 14:07:45 #6 type] 
+Type odd.Product is not enhanced.
+
+[2024-12-20 14:07:45 #7 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 2264@DESKTOP-3SREFX6
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:07:53 #1 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is opened by 1500@DESKTOP-3SREFX6
+
+[2024-12-20 14:07:53 #2 store] 
+Configuration path: E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:13:59 #1 explorer] 
+[ObjectDB 2.9.1] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:947)
+	at com.objectdb.o.LFL.x(LFL.java:904)
+	at com.objectdb.o.LFL.x(LFL.java:814)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ap(MST.java:109)
+	at com.objectdb.o.MSF.Z0(MSF.java:190)
+	at com.objectdb.o.OMF.s(OMF.java:816)
+	at com.objectdb.jpa.EMF.s(EMF.java:130)
+	at com.objectdb.o.OMF.x(OMF.java:722)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 16 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:14:20 #1 explorer] 
+[ObjectDB 2.9.1] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:947)
+	at com.objectdb.o.LFL.x(LFL.java:904)
+	at com.objectdb.o.LFL.x(LFL.java:814)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ap(MST.java:109)
+	at com.objectdb.o.MSF.Z0(MSF.java:190)
+	at com.objectdb.o.OMF.s(OMF.java:816)
+	at com.objectdb.jpa.EMF.s(EMF.java:130)
+	at com.objectdb.o.OMF.x(OMF.java:722)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 16 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-20 14:15:17 #1 explorer] 
+[ObjectDB 2.9.1] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:947)
+	at com.objectdb.o.LFL.x(LFL.java:904)
+	at com.objectdb.o.LFL.x(LFL.java:814)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ap(MST.java:109)
+	at com.objectdb.o.MSF.Z0(MSF.java:190)
+	at com.objectdb.o.OMF.s(OMF.java:816)
+	at com.objectdb.jpa.EMF.s(EMF.java:130)
+	at com.objectdb.o.OMF.x(OMF.java:722)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 16 more
+
+[2024-12-20 14:20:06 #3 store] 
+Database 'E:\files\object oriented database\oodproject\objectdb-2.9.1 (1)\objectdb-2.9.1\db\odbtest.odb' is closed by 1500@DESKTOP-3SREFX6
+
